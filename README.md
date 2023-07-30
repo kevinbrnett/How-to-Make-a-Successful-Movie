@@ -22,3 +22,9 @@ Prior to EDA being performed the data was cleaned.
 **Question 3: What is the average revenue per certification category?**
 
 **Question 4: What is the average revenue per certification category?**
+
+## MySQL Database
+
+## Hypothesis Testing
+
+## Linear Regression Model
