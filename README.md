@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![image.png](attachment:image.png)
+
 # How to Make a Successful Movie
  
 =======
@@ -32,4 +33,4 @@ Prior to EDA being performed the data was cleaned.
 ## Hypothesis Testing
 
 ## Linear Regression Model
->>>>>>> 7bf61703cd7dc7ab04b2e1abf7077bc9876c27d4
+
