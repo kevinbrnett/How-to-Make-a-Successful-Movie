@@ -1,4 +1,4 @@
-![image.png](attachment:image.png)
+![tmdb_logo](https://github.com/kevinbrnett/How-to-Make-a-Successful-Movie/blob/main/Images/tmdb_logo.png)
 
 # How to Make a Successful Movie
  
