@@ -21,9 +21,16 @@ API calls were made from The Movie Database (TMDB) to extract movie revenue and 
 Prior to EDA being performed the data was cleaned.
 
 **Question 1: How many movies had at least some valid financial information (values > 0 for budget OR revenue)?**
+> There were 637 movies with valid financial information in the dataset.
 
 **Question 2: How many movies are there in each of the certification categories (G/PG/PG-13/R)?**
 
+> **Movie Rating Counts Per Certification Category**
+ > - G: 15
+ > - PG: 35
+ > - PG-13: 131
+ > - R: 232
+ > - NR: 17
 **Question 3: What is the average revenue per certification category?**
 
 **Question 4: What is the average revenue per certification category?**
