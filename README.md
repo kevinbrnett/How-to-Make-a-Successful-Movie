@@ -65,6 +65,7 @@ Prior to EDA being performed the data was cleaned.
 > - R        $12,980,980.71
 
 ## MySQL Database
+![erd](https://github.com/kevinbrnett/How-to-Make-a-Successful-Movie/blob/main/Images/movies_erd.png)
 
 ## Hypothesis Testing
 
