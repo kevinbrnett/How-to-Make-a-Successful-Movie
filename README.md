@@ -4,22 +4,24 @@
 
 Kevin Barnett
 
-*Business Problem: What charateristics of a movie (i.e genre, rating) make it more successful than others?*
+## Business Problem
+What charateristics of a movie (i.e genre, rating) make it more successful than others?
 
-*Defining success: In this use case successful will be determined by the difference between revenue generated and the budget for the movie*
+## Defining success
+In this use case successful will be determined by the difference between revenue generated and the budget for the movie.
 
 ## Data Sources
 -IMDB Non-Commercial Datasets
 -The Movie Database
 
-## Data Filtering
-The IMDB data was filtered for a specific subset of data, requested by the stakeholder.
+## IMDB Data Filtering
+The IMDB data was cleaned and filtered for a specific subset of data, requested by the stakeholder. The subset of data we wanted to inlcude was only movies from the years 2000-2022.
 
 ## API Calls
-API calls were made from The Movie Database (TMDB) to extract movie revenue and profit data from 2001-2022. The data was combined into one single dataframe.
+API calls were made from The Movie Database (TMDB) to extract movie revenue and profit data from 2001-2022. The data was combined with the IMDB.
 
 ## Exploratory Data Analysis
-Prior to EDA being performed the data was cleaned.
+Prior to EDA being performed the combined data was cleaned.
 
 **Question 1: How many movies had at least some valid financial information (values > 0 for budget OR revenue)?**
 > There were 637 movies with valid financial information in the dataset.
