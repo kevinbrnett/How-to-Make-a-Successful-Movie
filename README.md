@@ -11,8 +11,8 @@ What charateristics of a movie (i.e genre, rating) make it more successful than 
 In this use case successful will be determined by the difference between revenue generated and the budget for the movie.
 
 ## Data Sources
--IMDB Non-Commercial Datasets
--The Movie Database
+- IMDB Non-Commercial Datasets
+- The Movie Database
 
 ## IMDB Data Filtering
 The IMDB data was cleaned and filtered for a specific subset of data, requested by the stakeholder. The subset of data we wanted to inlcude was only movies from the years 2000-2022.
