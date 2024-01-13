@@ -21,7 +21,7 @@ The IMDB data was cleaned and filtered for a specific subset of data, requested 
 API calls were made from The Movie Database (TMDB) to extract movie revenue and profit data from 2001-2022. The data was combined with the IMDB.
 
 ## Exploratory Data Analysis
-Prior to EDA being performed the combined data was cleaned.
+- Prior to EDA being performed the combined data was cleaned.
 
 **Question 1: How many movies had at least some valid financial information (values > 0 for budget OR revenue)?**
 > There were 637 movies with valid financial information in the dataset.
