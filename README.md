@@ -5,6 +5,7 @@
 Kevin Barnett
 
 *Business Problem: What charateristics of a movie (i.e genre, rating) make it more successful than others?*
+
 *Defining success: In this use case successful will be determined by the difference between revenue generated and the budget for the movie*
 
 ## Data Sources
