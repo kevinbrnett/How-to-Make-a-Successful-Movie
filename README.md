@@ -1,15 +1,15 @@
 ![tmdb_logo](https://github.com/kevinbrnett/How-to-Make-a-Successful-Movie/blob/main/Images/tmdb_logo.png)
 
-# How to Make a Successful Movie
+# Data Analysis: Make a Successful Movie
 
 Kevin Barnett
 
-# Data Enrichment Project
-Kevin Barnett
-
-*Business Problem: What charateristics of a movie (i.e genre, rating) make it more successful than others?*
+*Business Problem: What charateristics of a movie (i.e genre, rating) make it more successful than others?
+Defining success: In this use case successful will be determined by the difference between revenue generated and the budget for the movie*
 
 ## Data Sources
+-IMDB Non-Commercial Datasets
+-The Movie Database
 
 ## Data Filtering
 The IMDB data was filtered for a specific subset of data, requested by the stakeholder.
